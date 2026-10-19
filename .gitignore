@@ -1,0 +1,32 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE & Editor Files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Flutter & Dart Build Artifacts
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# Python & Backend Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+*.env.local
+.venv/
+venv/
+ENV/
+
+# Temporary / Scratch
+tmp/
+scratch/
