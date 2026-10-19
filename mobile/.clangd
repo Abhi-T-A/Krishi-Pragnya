@@ -1,0 +1,14 @@
+CompileFlags:
+  Add:
+    - "-Id:/Krishi-Pragnya/mobile/windows/flutter/ephemeral/cpp_client_wrapper/include"
+    - "-Id:/Krishi-Pragnya/mobile/windows/flutter/ephemeral"
+    - "-Id:/Krishi-Pragnya/mobile/windows/runner"
+    - "-fms-extensions"
+    - "-fms-compatibility"
+    - "-DUNICODE"
+    - "-D_UNICODE"
+    - "-DWIN32_LEAN_AND_MEAN"
+    - "-DNOMINMAX"
+Diagnostics:
+  Suppress:
+    - "unused-includes"
